@@ -38,10 +38,10 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-        var appId = #YOUR_APPID
-        var appKey = #YOUR_APPKEY
-        var channelId = #YOUR_CHANNEL_ID
-        var userId = #YOUR_USER_ID
+        var appId = '#YOUR_APPID'
+        var appKey = '#YOUR_APPKEY'
+        var channelId = '#YOUR_CHANNEL_ID'
+        var userId = '#YOUR_USER_ID'
 
         this.initDbyEvents(true);
         this.initClickEvents(true);

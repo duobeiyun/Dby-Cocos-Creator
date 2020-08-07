@@ -11,12 +11,12 @@ var userId = #YOUR_USER_ID
 
 1.3: Project->Build->Platform->Web Desktop->Build.(These steps is just want to build an Web-Desktop project, Note: do not need to compile it)
 
-1.4: copy CocosCreator_for-Electron/build/web-desktop into Dby-Electron-React/ .
+1.4: copy CocosCreator_for-Electron/build/web-desktop into Cocos-Electron/ .
 
 
 step 2: Run web-desktop by electron.
 
-2.1: Run "cd /Dby-Electron-React".
+2.1: Run "cd /Cocos-Electron".
 
 2.2: Run "npm install".
 
